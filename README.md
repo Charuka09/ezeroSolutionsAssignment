@@ -4,7 +4,7 @@
 - Go to weather-stats-backend folder and run `yarn`
 - Split the terminal and run,
  1. `tsc -w`
- 2. `nodemon `dist/app.ts`
+ 2. `nodemon dist/app.ts`
 
 ---
 
