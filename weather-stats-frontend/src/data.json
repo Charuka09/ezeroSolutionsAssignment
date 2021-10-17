@@ -1,0 +1,41 @@
+{
+    "request": {
+        "type": "City",
+        "query": "Melbourne, Australia",
+        "language": "en",
+        "unit": "m"
+    },
+        "location": {
+        "name": "Melbourne",
+        "country": "Australia",
+        "region": "Victoria",
+        "lat": "-37.817",
+        "lon": "144.967",
+        "timezone_id": "Australia/Melbourne",
+        "localtime": "2021-10-14 21:05",
+        "localtime_epoch": 1634245500,
+        "utc_offset": "11.0"
+    },
+        "current": {
+        "observation_time": "10:05 AM",
+        "temperature": 12,
+        "weather_code": 302,
+        "weather_icons": [
+            "https://assets.weatherstack.com/images/wsymbols01_png_64/wsymbol_0034_cloudy_with_heavy_rain_night.png"
+        ],
+        "weather_descriptions": [
+            "Rain"
+        ],
+        "wind_speed": 17,
+        "wind_degree": 30,
+        "wind_dir": "NNE",
+        "pressure": 1005,
+        "precip": 0,
+        "humidity": 82,
+        "cloudcover": 75,
+        "feelslike": 11,
+        "uv_index": 1,
+        "visibility": 6,
+        "is_day": "no"
+    }
+}
